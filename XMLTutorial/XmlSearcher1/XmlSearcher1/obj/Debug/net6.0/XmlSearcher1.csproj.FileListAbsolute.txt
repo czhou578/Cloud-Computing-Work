@@ -1,0 +1,16 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.csproj.AssemblyReference.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.AssemblyInfoInputs.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.AssemblyInfo.cs
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.csproj.CoreCompileInputs.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\Data\PurchaseOrders.xml
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\XmlSearcher1.exe
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\XmlSearcher1.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\XmlSearcher1.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\XmlSearcher1.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\bin\Debug\net6.0\XmlSearcher1.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\refint\XmlSearcher1.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\XmlSearcher1.genruntimeconfig.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\XMLTutorial\XmlSearcher1\XmlSearcher1\obj\Debug\net6.0\ref\XmlSearcher1.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8nd0rFykauxZiZ7AWj9HDNObHhvcjMKSobnpbQXeq2Zszj2qJ61UCe16OlbNHF1DltUfv0rIPeabYn2SgFRWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\Solution1\\VerifyPatientFunction\\VerifyPatientFunction\\VerifyPatientFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.s3events\\2.0.1\\amazon.lambda.s3events.2.0.1.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.7\\awssdk.core.3.7.7.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.s3\\3.7.7.21\\awssdk.s3.3.7.7.21.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

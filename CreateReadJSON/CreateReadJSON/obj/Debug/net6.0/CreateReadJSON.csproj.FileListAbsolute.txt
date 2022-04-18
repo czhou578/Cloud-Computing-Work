@@ -1,0 +1,16 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\CreateReadJSON.exe
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\CreateReadJSON.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\CreateReadJSON.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\CreateReadJSON.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\CreateReadJSON.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.csproj.AssemblyReference.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.AssemblyInfoInputs.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.AssemblyInfo.cs
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.csproj.CoreCompileInputs.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\refint\CreateReadJSON.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\CreateReadJSON.genruntimeconfig.cache
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\obj\Debug\net6.0\ref\CreateReadJSON.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\CreateReadJSON\CreateReadJSON\bin\Debug\net6.0\json1.txt
