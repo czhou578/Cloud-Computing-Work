@@ -37,16 +37,16 @@ public class S3ClientApp
 
                         tagRequest.BucketName = bucket.BucketName;
                         tagRequest.Key = ob.Key;
-                        Task<GetObjectTaggingResponse> objTags = s3Client.GetObjectTaggingAsync(tagRequest);
+                        //Task<GetObjectTaggingResponse> objTags = s3Client.GetObjectTaggingAsync(tagRequest);
 
-                        if (objTags != null)
-                        {
-                            foreach (var tag in objTags.Result.Tagging)
-                            {
-                                Console.WriteLine(tag.Key);
-                                Console.WriteLine(tag.Value);
-                            }
-                        }
+                        //if (objTags != null)
+                        //{
+                        //    foreach (var tag in objTags.Result.Tagging)
+                        //    {
+                        //        Console.WriteLine(tag.Key);
+                        //        Console.WriteLine(tag.Value);
+                        //    }
+                        //}
                     }
                 }
 
@@ -75,7 +75,7 @@ public class S3ClientApp
         s3Client.Dispose();
     }
 
-    private static AWSCredentials GetAWSCredentialsByName(string profileName)
+    private static AWSCredentials GetAWSCredentialsByName(string profileName) //save this one
     {
         if (String.IsNullOrEmpty(profileName))
         {

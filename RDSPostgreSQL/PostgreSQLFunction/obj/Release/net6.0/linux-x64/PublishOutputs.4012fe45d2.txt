@@ -1,0 +1,7 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\PostgreSQLFunction.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\PostgreSQLFunction.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\PostgreSQLFunction.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\Npgsql.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\RDSPostgreSQL\PostgreSQLFunction\bin\Release\net6.0\publish\PostgreSQLFunction.dll

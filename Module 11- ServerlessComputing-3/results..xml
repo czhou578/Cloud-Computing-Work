@@ -1,0 +1,10 @@
+<results>
+    <patient id="123456789">
+	<age>58</age>
+        <gender>male</gender>
+        <bmi>28.3</bmi>
+    </patient>
+    <glucose unit="mg/dl">215</glucose>
+    <trigliceride unit="mg/dl">65</trigliceride>
+    <wbc unit="cells/mm3">950000</wbc>
+</results>

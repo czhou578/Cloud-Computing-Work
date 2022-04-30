@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DBGbj1y6zh7uV9hs7g/UCCJmmlXLyMgqpZwvYDtZpBpw8qf7k4Ba9FOF54gOMrWJsYjgajEIovUsyoB8P7OXkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\LambdaS3Interaction\\ProcessS3Event\\ProcessS3Event.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.s3events\\2.0.1\\amazon.lambda.s3events.2.0.1.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.9\\awssdk.core.3.7.9.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.s3\\3.7.8.10\\awssdk.s3.3.7.8.10.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.3\\microsoft.netcore.app.runtime.linux-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.3\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.3.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
