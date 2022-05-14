@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMf68D9q1Btv1HO0yrr4OiN44OmTdk3bZP4Njd8eJ4eaX9pjWInWzDFCQEX5LbuDRjcbl62rFbLnyiY0oCvkyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\QueueSolution\\MessagesProducer\\MessagesProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.10.15\\awssdk.core.3.7.10.15.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.sqs\\3.7.2.51\\awssdk.sqs.3.7.2.51.nupkg.sha512"
+  ],
+  "logs": []
+}

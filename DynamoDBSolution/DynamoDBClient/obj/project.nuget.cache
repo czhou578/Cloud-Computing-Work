@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nHyYO6VUVTgiuYDLT6vzx/ljyqG6NyAHeUoHWlLE5sQ+jTOrd/YPL/6wkO9qErItes8ClSqYwD+UMjgitIQLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\DynamoDBSolution\\DynamoDBClient\\DynamoDBClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.10.13\\awssdk.core.3.7.10.13.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.28\\awssdk.dynamodbv2.3.7.3.28.nupkg.sha512"
+  ],
+  "logs": []
+}

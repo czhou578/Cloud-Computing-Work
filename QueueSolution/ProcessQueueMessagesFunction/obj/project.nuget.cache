@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7JK6c+wX2g2xCGrmBu9LfPtUAWLjGGpgF7qyFz2WEudEnVPVGqamsfPawHMx3ba8CcOT2V+zKCcCHWpTpVocw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\QueueSolution\\ProcessQueueMessagesFunction\\ProcessQueueMessagesFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.sqsevents\\2.1.0\\amazon.lambda.sqsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\ProcessQueueMessagesFunction.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\ProcessQueueMessagesFunction.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\ProcessQueueMessagesFunction.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\QueueSolution\ProcessQueueMessagesFunction\bin\Release\net6.0\publish\ProcessQueueMessagesFunction.dll

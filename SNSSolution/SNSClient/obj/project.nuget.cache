@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1GKwEopqhenlQYiWKInzRzHqTk7H6Ap6KiS+SGFwHAEmlQbsnsZkKgTwERTLdjVbqepTVUABENZwsiIkWZc3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\SNSSolution\\SNSClient\\SNSClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.2\\awssdk.core.3.7.11.2.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.simplenotificationservice\\3.7.3.58\\awssdk.simplenotificationservice.3.7.3.58.nupkg.sha512"
+  ],
+  "logs": []
+}

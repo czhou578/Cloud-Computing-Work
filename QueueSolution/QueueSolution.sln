@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessQueueMessagesFunction", "ProcessQueueMessagesFunction\ProcessQueueMessagesFunction.csproj", "{223EE054-8C49-48E7-A3BB-725835CB4A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagesProducer", "MessagesProducer\MessagesProducer.csproj", "{53189E11-D98F-4A1A-B9D3-146E20F54D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223EE054-8C49-48E7-A3BB-725835CB4A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223EE054-8C49-48E7-A3BB-725835CB4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223EE054-8C49-48E7-A3BB-725835CB4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223EE054-8C49-48E7-A3BB-725835CB4A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53189E11-D98F-4A1A-B9D3-146E20F54D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53189E11-D98F-4A1A-B9D3-146E20F54D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53189E11-D98F-4A1A-B9D3-146E20F54D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53189E11-D98F-4A1A-B9D3-146E20F54D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA63A14E-8E48-496F-963F-F87BF9827D5E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\ResizeImageFunction.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\ResizeImageFunction.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\ResizeImageFunction.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\AWSSDK.S3.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ResizeImageSolution\ResizeImageFunction\bin\Release\net6.0\publish\ResizeImageFunction.dll

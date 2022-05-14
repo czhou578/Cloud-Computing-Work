@@ -22,5 +22,6 @@
     "function-security-groups" : "sg-06c9a45e1207655c9",
     "tracing-mode"             : "PassThrough",
     "environment-variables"    : "",
-    "image-tag"                : ""
+    "image-tag"                : "",
+    "function-description"     : ""
 }

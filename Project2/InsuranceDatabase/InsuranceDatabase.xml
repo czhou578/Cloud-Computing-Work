@@ -1,0 +1,12 @@
+<insuranceDatabase>
+    <patient id="10001">
+        <policy policyNumber="AFF-234-667788">
+            <provider>Liberty Mutual</provider>
+        </policy>
+    </patient>
+    <patient id="10003">
+        <policy policyNumber="DCH-776-334455">
+            <provider>State Farm</provider>
+        </policy>
+    </patient>
+</insuranceDatabase>
