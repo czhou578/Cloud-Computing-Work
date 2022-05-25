@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DBNCzs6qwqf8Y0CAUXm+s/S1cnS7zsACMnJvl76/OxdqCXmYpFNnAG0bjQdMlzJi5cem2pWNxC07MX3D/5bxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\AWSRekognitionSolution\\DetectTextClient\\DetectTextClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.4\\awssdk.core.3.7.11.4.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.rekognition\\3.7.8.11\\awssdk.rekognition.3.7.8.11.nupkg.sha512"
+  ],
+  "logs": []
+}

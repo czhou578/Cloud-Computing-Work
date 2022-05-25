@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VideoAnalysisClient/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.6",
+          "AWSSDK.Rekognition": "3.7.8.13"
+        },
+        "runtime": {
+          "VideoAnalysisClient.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.6"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.7.8.13": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.8.13"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VideoAnalysisClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.11.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-adb8mQXdEyyF9pQ00l/tnnpqxn6i41hxqZ4JgwGD+AyocbwbijyrAfmYZfMcNzsUD9RDPDaTpM8/kreyJX+Jwg==",
+      "path": "awssdk.core/3.7.11.6",
+      "hashPath": "awssdk.core.3.7.11.6.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.7.8.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fviW2ujZx4k1SgOWjMdEGBu27t5V9SOx8vjLykFRIwEMnIYI8YbAZyevdRIT/ZoRQDoahJVa2SdLBbhqTDlGnw==",
+      "path": "awssdk.rekognition/3.7.8.13",
+      "hashPath": "awssdk.rekognition.3.7.8.13.nupkg.sha512"
+    }
+  }
+}

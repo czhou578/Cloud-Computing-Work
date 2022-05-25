@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DetectTextClient/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.4",
+          "AWSSDK.Rekognition": "3.7.8.11"
+        },
+        "runtime": {
+          "DetectTextClient.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.4"
+          }
+        }
+      },
+      "AWSSDK.Rekognition/3.7.8.11": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Rekognition.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.8.11"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DetectTextClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.11.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okJonF38zIiJc62FoQLypnwdcspnurGmPpssc4nzKkSuy/BTkWHhUld++XK1Uy8z6i+2zf7bzgAo35uj6TPIsQ==",
+      "path": "awssdk.core/3.7.11.4",
+      "hashPath": "awssdk.core.3.7.11.4.nupkg.sha512"
+    },
+    "AWSSDK.Rekognition/3.7.8.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-M5pvx7l4yU8Mb0AIqDCqliWV+YV9X7Kgmyuklyg3PE9sF2af4YbTTFVZB4f6RLRrwRmZ/NdEIinr1CmuGBU7Ww==",
+      "path": "awssdk.rekognition/3.7.8.11",
+      "hashPath": "awssdk.rekognition.3.7.8.11.nupkg.sha512"
+    }
+  }
+}

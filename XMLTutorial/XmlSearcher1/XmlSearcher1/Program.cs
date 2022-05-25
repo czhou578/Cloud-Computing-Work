@@ -9,9 +9,9 @@ namespace XmlSearcher1
         static void Main(string[] args)
         {
             XmlDocument doc = new XmlDocument();
-            doc.Load(@"Data/PurchaseOrders.xml");
+            doc.Load(@"Data/PurchaseOrders.xml"); //load the input file
 
-            XmlElement root = doc.DocumentElement;
+            XmlElement root = doc.DocumentElement; //load the root element
             string orderNum = "99505";
 
             XmlNode purchase = root.SelectSingleNode("PurchaseOrder[@PurchaseOrderNumber=\"" + orderNum + "\"]");
@@ -20,10 +20,13 @@ namespace XmlSearcher1
 
             if (purchase != null)
             {
-                XmlNodeList items = purchase.SelectNodes("Items/Item");
+                //XmlNodeList items = purchase.SelectNodes("Items/Item");
+                XmlNode items = purchase.SelectSingleNode("Address/Name");
+
                 if (items != null)
                 {
-                    Console.WriteLine("There are {0} items in order number {1}", items.Count, orderNum);
+                    Console.WriteLine("There requester's name is {0}", items.InnerText);
+                    //Console.WriteLine("There are {0} items in order number {1}", items.Count, orderNum);
                 }
                 //Console.WriteLine("Found {0} orders\n", results.Count);
                 //foreach (XmlNode address in purchase)

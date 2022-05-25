@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TranslateClient/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.4",
+          "AWSSDK.Translate": "3.7.4.33"
+        },
+        "runtime": {
+          "TranslateClient.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.4": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.4"
+          }
+        }
+      },
+      "AWSSDK.Translate/3.7.4.33": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Translate.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.4.33"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TranslateClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.11.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okJonF38zIiJc62FoQLypnwdcspnurGmPpssc4nzKkSuy/BTkWHhUld++XK1Uy8z6i+2zf7bzgAo35uj6TPIsQ==",
+      "path": "awssdk.core/3.7.11.4",
+      "hashPath": "awssdk.core.3.7.11.4.nupkg.sha512"
+    },
+    "AWSSDK.Translate/3.7.4.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uVhZr09KDdNcrg3gn37UMAjDZwcJ2koerrcStBzRak9XRdidJoN4QhOQ9EwnPeTFftPI9pAr9f7vmVyAuzHV9g==",
+      "path": "awssdk.translate/3.7.4.33",
+      "hashPath": "awssdk.translate.3.7.4.33.nupkg.sha512"
+    }
+  }
+}

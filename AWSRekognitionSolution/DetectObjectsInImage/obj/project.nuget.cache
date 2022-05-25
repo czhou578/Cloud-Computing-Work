@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJoNc7ZCO2C12kOVjMb7Vebr0OtQIEzYRB8bDwgAfIq/p468lNGeV89SU7JOE9TxhpHVga94l0URShwzavMAPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\AWSRekognitionSolution\\DetectObjectsInImage\\DetectObjectsInImage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.5\\awssdk.core.3.7.11.5.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.rekognition\\3.7.8.12\\awssdk.rekognition.3.7.8.12.nupkg.sha512"
+  ],
+  "logs": []
+}

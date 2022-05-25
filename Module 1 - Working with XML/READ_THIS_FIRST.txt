@@ -1,0 +1,4 @@
+First, go through file "InstallVisualStudioAndAWSToolkit.pdf"
+Second, go through file "VisualStudioSolutionsAndProjects.pdf"
+
+When done with the above two files, you can start on "Module1-WorkingWithXML.pdf"

@@ -11,12 +11,13 @@ namespace XmlSearcher2
             doc.Load(@"Data/CustomersOrders.xml");
 
             XmlElement root = doc.DocumentElement;
+            Console.WriteLine(root);
 
             //string id = "LETSS";
             int count = 0;
             string id = "LAZYK";
             string city = "Eugene";
-            //XmlNode results = root.SelectSingleNode("//Customers/Customer[@CustomerID=\"" + id + "\"]");
+            //XmlNode result = root.SelectSingleNode("//Customers/Customer[@CustomerID=\"" + id + "\"]");
 
             //XmlNode result = root.SelectSingleNode("//Customers/Customer[@CustomerID=\"" + id + "\"]");
             //Console.WriteLine("colin: " + result.InnerText);
@@ -24,20 +25,20 @@ namespace XmlSearcher2
             //XmlNodeList result = root.SelectNodes("//Customers/Customer");
             //XmlNodeList result = root.SelectNodes("//Orders/Order");
 
-            //XmlNodeList result = root.SelectNodes("//Orders/Order/CustomerID[text()=\"" + id + "\"]");
-            XmlNodeList result = root.SelectNodes("//Orders/Order/ShipInfo/ShipCity[text()=\"" + city + "\"]");
+            XmlNodeList result = root.SelectNodes("//Orders/Order/CustomerID[text()=\"" + id + "\"]");
+            //XmlNodeList result = root.SelectNodes("//Orders/Order/ShipInfo/ShipCity[text()=\"" + city + "\"]");
 
             if (result != null)
             {
-                foreach (XmlNode node in result)
-                {
-                    count++;
-                }
-
                 //foreach (XmlNode node in result)
                 //{
                 //    count++;
                 //}
+
+                foreach (XmlNode node in result)
+                {
+                    count++;
+                }
 
                 //XmlNode customers = result.SelectSingleNode("FullAddress");
                 //foreach (XmlNode customer in customers.ChildNodes)
@@ -62,7 +63,8 @@ namespace XmlSearcher2
 
                 //}
 
-            } else
+            }
+            else
             {
                 Console.WriteLine("colin here");
             }

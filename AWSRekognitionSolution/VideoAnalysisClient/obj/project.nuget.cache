@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JQsthVGtI3idoL9JbMxIn2WtEDAQPEZ35qp5tdgYIe3sIWhBPqhYNZZu+1AqczGHFcxHbNPL4NW2nlkQeiK2yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\AWSRekognitionSolution\\VideoAnalysisClient\\VideoAnalysisClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.6\\awssdk.core.3.7.11.6.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.rekognition\\3.7.8.13\\awssdk.rekognition.3.7.8.13.nupkg.sha512"
+  ],
+  "logs": []
+}

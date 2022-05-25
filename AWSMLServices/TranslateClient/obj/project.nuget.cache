@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVLUdMM1yuLx7+8he0Ou7Y7I1OMSvWw+z6vFSmZH4CSCfoDFZykZPtJan+XcjZyP2aIkUOwzMKMA/eCf57uZug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\AWSMLServices\\TranslateClient\\TranslateClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.4\\awssdk.core.3.7.11.4.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.translate\\3.7.4.33\\awssdk.translate.3.7.4.33.nupkg.sha512"
+  ],
+  "logs": []
+}

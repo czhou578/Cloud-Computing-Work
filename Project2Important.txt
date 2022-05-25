@@ -1,0 +1,22 @@
+Upload File: 
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\UploadFile\bin\Debug\net6.0\UploadFile.exe"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\PatientsFiles\patient1.xml"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\PatientsFiles\patient2.xml"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\PatientsFiles\patient3.xml"
+
+Log File Path:
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\InsuranceDataService\bin\Debug\net6.0\log.txt"
+
+Create Service: 
+
+sc.exe create InsuranceDataService start=auto binpath="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project2\InsuranceDataService\bin\Debug\net6.0\InsuranceDataService.exe"
+
+Start Service: 
+
+sc.exe start InsuranceDataService
+
+sc.exe stop InsuranceDataService
+sc.exe delete InsuranceDataService
