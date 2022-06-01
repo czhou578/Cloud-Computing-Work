@@ -1,0 +1,25 @@
+Upload File: 
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate1_english.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate3_russian.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate4_french.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate5_english.jpg"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\oregon_plate8.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\ny_plate7.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\michigan_plate6.jpg"
+
+Create Service:
+
+sc.exe create DMVService start=auto binpath="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\DMVService\bin\Debug\net6.0\DMVService.exe"
+
+Start Service: 
+
+sc.exe start DMVService
+
+sc.exe stop DMVService
+sc.exe delete DMVService
+
+temp: "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate1_english.jpg" --location="1089 road1" --date="01/01/01" --type="no_stop"

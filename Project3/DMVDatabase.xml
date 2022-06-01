@@ -1,0 +1,47 @@
+<dmv>
+    <vehicle plate="6TRJ244">
+        <make>Ford</make>
+        <model>Focus</model>
+        <color>Red</color>
+        <owner preferredLanguage="english">
+            <name>John Smith</name>
+            <contact>+14256667777</contact>
+        </owner>
+    </vehicle>
+    <vehicle plate="5ALN015">
+        <make>Honda</make>
+        <model>Civic</model>
+        <color>Blue</color>
+        <owner preferredLanguage="spanish">
+            <name>Jose Garcia</name>
+            <contact>+14256667777</contact>
+        </owner>
+    </vehicle>
+    <vehicle plate="7TRR812">
+        <make>Jeep</make>
+        <model>Wrangler</model>
+        <color>Yellow</color>
+        <owner preferredLanguage="russian">
+            <name>Vladimir Lavrov</name>
+            <contact>+14256667777</contact>
+        </owner>
+    </vehicle>
+    <vehicle plate="3ZZB646">
+        <make>Honda</make>
+        <model>CRV</model>
+        <color>Silver</color>
+        <owner preferredLanguage="french">
+            <name>Chantal Barbier</name>
+            <contact>+14256667777</contact>
+        </owner>
+    </vehicle>
+    <vehicle plate="6YMX832">
+        <make>Chevrolet</make>
+        <model>Cruze</model>
+        <color>Red</color>
+        <owner preferredLanguage="english">
+            <name>Tim Carpenter</name>
+            <contact>+14256667777</contact>
+        </owner>
+    </vehicle>
+</dmv>

@@ -1,0 +1,150 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AWSSDK.Core/3.7.11.10": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.Textract/3.7.5.17": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.11.10, 4.0.0)"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Textract.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Textract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AWSSDK.Core/3.7.11.10": {
+      "sha512": "u6+/RKeITc7nisUIOmD3peumrKz4L3IoW9hTp8BPqbJ+ElG+lOYj/0TkeIfpPHtjibfVQHkaa10xQXHxYHT2DA==",
+      "type": "package",
+      "path": "awssdk.core/3.7.11.10",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.11.10.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.Textract/3.7.5.17": {
+      "sha512": "gqp/ONuk3Js4WJ0tBMPoJJnV4AIr//ICfpwonfQ/xuBk3UiG5hLNVlkEvTVhjNMCepFYNXG3YV9toVKfvKJqAQ==",
+      "type": "package",
+      "path": "awssdk.textract/3.7.5.17",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.Textract.CodeAnalysis.dll",
+        "awssdk.textract.3.7.5.17.nupkg.sha512",
+        "awssdk.textract.nuspec",
+        "lib/net35/AWSSDK.Textract.dll",
+        "lib/net35/AWSSDK.Textract.pdb",
+        "lib/net35/AWSSDK.Textract.xml",
+        "lib/net45/AWSSDK.Textract.dll",
+        "lib/net45/AWSSDK.Textract.pdb",
+        "lib/net45/AWSSDK.Textract.xml",
+        "lib/netcoreapp3.1/AWSSDK.Textract.dll",
+        "lib/netcoreapp3.1/AWSSDK.Textract.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Textract.xml",
+        "lib/netstandard2.0/AWSSDK.Textract.dll",
+        "lib/netstandard2.0/AWSSDK.Textract.pdb",
+        "lib/netstandard2.0/AWSSDK.Textract.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AWSSDK.Textract >= 3.7.5.17"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mycol\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\TextractSolution\\AnalyzeDocument\\AnalyzeDocument.csproj",
+      "projectName": "AnalyzeDocument",
+      "projectPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\TextractSolution\\AnalyzeDocument\\AnalyzeDocument.csproj",
+      "packagesPath": "C:\\Users\\mycol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\TextractSolution\\AnalyzeDocument\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mycol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AWSSDK.Textract": {
+            "target": "Package",
+            "version": "[3.7.5.17, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

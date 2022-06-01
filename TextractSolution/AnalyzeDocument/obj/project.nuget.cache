@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RsIXNswCDM6KNJIArslXAQmKGz03b0P3xxl9bMcKzhlUu22RcsfNvL8Violv1Dg2LR0mJRj8nuV8UFnUdBCIIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\TextractSolution\\AnalyzeDocument\\AnalyzeDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.10\\awssdk.core.3.7.11.10.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.textract\\3.7.5.17\\awssdk.textract.3.7.5.17.nupkg.sha512"
+  ],
+  "logs": []
+}
