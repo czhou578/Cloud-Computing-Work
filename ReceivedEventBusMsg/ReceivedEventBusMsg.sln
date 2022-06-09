@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReceivedEventBusMsg", "ReceivedEventBusMsg\ReceivedEventBusMsg.csproj", "{46942D3D-DB1E-40DA-91D4-7AF167B065C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46942D3D-DB1E-40DA-91D4-7AF167B065C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46942D3D-DB1E-40DA-91D4-7AF167B065C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46942D3D-DB1E-40DA-91D4-7AF167B065C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46942D3D-DB1E-40DA-91D4-7AF167B065C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E78A9D25-0E25-4083-B62B-14FC7C4DFBFD}
+	EndGlobalSection
+EndGlobal

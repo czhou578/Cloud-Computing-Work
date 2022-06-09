@@ -1,0 +1,248 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Amazon.Lambda.CloudWatchEvents/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Amazon.Lambda.CloudWatchEvents.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.CloudWatchEvents.dll": {}
+        }
+      },
+      "Amazon.Lambda.Core/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Core.dll": {}
+        }
+      },
+      "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Amazon.Lambda.Core": "2.1.0"
+        },
+        "compile": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.11.12": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.EventBridge/3.7.5.23": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.7.11.12, 4.0.0)"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/AWSSDK.EventBridge.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.EventBridge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amazon.Lambda.CloudWatchEvents/4.0.0": {
+      "sha512": "3W7aq+8bipuVcvzvj/LxRWl2ZgLWreJhfzdSCLk5KX4tcNW7cbW+RoL2+RO+Ai3RXKyujR7Lu8DQaViqn6pTiw==",
+      "type": "package",
+      "path": "amazon.lambda.cloudwatchevents/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "amazon.lambda.cloudwatchevents.4.0.0.nupkg.sha512",
+        "amazon.lambda.cloudwatchevents.nuspec",
+        "lib/netcoreapp3.1/Amazon.Lambda.CloudWatchEvents.dll",
+        "lib/netcoreapp3.1/Amazon.Lambda.CloudWatchEvents.xml",
+        "lib/netstandard2.0/Amazon.Lambda.CloudWatchEvents.dll",
+        "lib/netstandard2.0/Amazon.Lambda.CloudWatchEvents.xml"
+      ]
+    },
+    "Amazon.Lambda.Core/2.1.0": {
+      "sha512": "ok06UhfBZw6j6+PhiJR9C0EOMuJvnq8rMCHVkaFmPFrlI/q447ukwGZQKaAKqodV+MNTfpb/iPxjgUPVbSlVVw==",
+      "type": "package",
+      "path": "amazon.lambda.core/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "amazon.lambda.core.2.1.0.nupkg.sha512",
+        "amazon.lambda.core.nuspec",
+        "lib/net6.0/Amazon.Lambda.Core.dll",
+        "lib/net6.0/Amazon.Lambda.Core.xml",
+        "lib/netstandard2.0/Amazon.Lambda.Core.dll",
+        "lib/netstandard2.0/Amazon.Lambda.Core.xml"
+      ]
+    },
+    "Amazon.Lambda.Serialization.SystemTextJson/2.3.0": {
+      "sha512": "qgFCDJp5lyUNqCq1z18U7fZ/+rmMyw6RJf9nKfnJrf79YupDj02klQAjxymEYN66NykWXyc68SGkow6fy53hfg==",
+      "type": "package",
+      "path": "amazon.lambda.serialization.systemtextjson/2.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+        "amazon.lambda.serialization.systemtextjson.nuspec",
+        "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll",
+        "lib/net6.0/Amazon.Lambda.Serialization.SystemTextJson.xml",
+        "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.dll",
+        "lib/netcoreapp3.1/Amazon.Lambda.Serialization.SystemTextJson.xml"
+      ]
+    },
+    "AWSSDK.Core/3.7.11.12": {
+      "sha512": "3X9+uQi2QSB/WCgBJgMv1SVzLhvpwYUGxJHlzYB89QeK9cqiezUNobEOdQ1r4vSzUVg8pt/pJKGjFSH0NINVwA==",
+      "type": "package",
+      "path": "awssdk.core/3.7.11.12",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.7.11.12.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netcoreapp3.1/AWSSDK.Core.dll",
+        "lib/netcoreapp3.1/AWSSDK.Core.pdb",
+        "lib/netcoreapp3.1/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.EventBridge/3.7.5.23": {
+      "sha512": "Mj5Uejp1rshv7ZvGKh7rICFUSmbPOGyzIXSnRw2cUhE1ytPKwNJCvXq58ErcKEgEOq3JPSbQmYLeExJHXUfrJA==",
+      "type": "package",
+      "path": "awssdk.eventbridge/3.7.5.23",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.EventBridge.CodeAnalysis.dll",
+        "awssdk.eventbridge.3.7.5.23.nupkg.sha512",
+        "awssdk.eventbridge.nuspec",
+        "lib/net35/AWSSDK.EventBridge.dll",
+        "lib/net35/AWSSDK.EventBridge.pdb",
+        "lib/net35/AWSSDK.EventBridge.xml",
+        "lib/net45/AWSSDK.EventBridge.dll",
+        "lib/net45/AWSSDK.EventBridge.pdb",
+        "lib/net45/AWSSDK.EventBridge.xml",
+        "lib/netcoreapp3.1/AWSSDK.EventBridge.dll",
+        "lib/netcoreapp3.1/AWSSDK.EventBridge.pdb",
+        "lib/netcoreapp3.1/AWSSDK.EventBridge.xml",
+        "lib/netstandard2.0/AWSSDK.EventBridge.dll",
+        "lib/netstandard2.0/AWSSDK.EventBridge.pdb",
+        "lib/netstandard2.0/AWSSDK.EventBridge.xml",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AWSSDK.EventBridge >= 3.7.5.23",
+      "Amazon.Lambda.CloudWatchEvents >= 4.0.0",
+      "Amazon.Lambda.Core >= 2.1.0",
+      "Amazon.Lambda.Serialization.SystemTextJson >= 2.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mycol\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj",
+      "projectName": "ReceivedEventBusMsg",
+      "projectPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj",
+      "packagesPath": "C:\\Users\\mycol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mycol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "AWSSDK.EventBridge": {
+            "target": "Package",
+            "version": "[3.7.5.23, )"
+          },
+          "Amazon.Lambda.CloudWatchEvents": {
+            "target": "Package",
+            "version": "[4.0.0, )"
+          },
+          "Amazon.Lambda.Core": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          },
+          "Amazon.Lambda.Serialization.SystemTextJson": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[6.0.3, 6.0.3]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

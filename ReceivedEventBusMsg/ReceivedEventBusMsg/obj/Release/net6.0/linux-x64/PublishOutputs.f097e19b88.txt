@@ -1,0 +1,9 @@
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\ReceivedEventBusMsg.deps.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\ReceivedEventBusMsg.runtimeconfig.json
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\ReceivedEventBusMsg.pdb
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\Amazon.Lambda.CloudWatchEvents.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\AWSSDK.Core.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\AWSSDK.EventBridge.dll
+C:\Users\mycol\WEB PROJECTS\CS-455-Work\ReceivedEventBusMsg\ReceivedEventBusMsg\bin\Release\net6.0\publish\ReceivedEventBusMsg.dll

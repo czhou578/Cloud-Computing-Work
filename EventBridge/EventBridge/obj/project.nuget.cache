@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OeX5Qt6exsUiWLpjJgq88n/+qt0n1q8L3ssLiH2cjg0KZQe9HvYdxK2XFALKYO9sg9qHASXqTAHG1i0QXOw0NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\EventBridge\\EventBridge\\EventBridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\amazon.lambda.cloudwatchevents\\4.0.0\\amazon.lambda.cloudwatchevents.4.0.0.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.eventbridge\\3.7.5.22\\awssdk.eventbridge.3.7.5.22.nupkg.sha512"
+  ],
+  "logs": []
+}

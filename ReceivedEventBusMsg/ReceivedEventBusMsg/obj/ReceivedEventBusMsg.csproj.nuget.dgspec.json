@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj",
+        "projectName": "ReceivedEventBusMsg",
+        "projectPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\ReceivedEventBusMsg.csproj",
+        "packagesPath": "C:\\Users\\mycol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ReceivedEventBusMsg\\ReceivedEventBusMsg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mycol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.EventBridge": {
+              "target": "Package",
+              "version": "[3.7.5.23, )"
+            },
+            "Amazon.Lambda.CloudWatchEvents": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

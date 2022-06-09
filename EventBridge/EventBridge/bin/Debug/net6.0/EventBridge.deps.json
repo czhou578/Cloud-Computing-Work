@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EventBridge/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11",
+          "AWSSDK.EventBridge": "3.7.5.22",
+          "Amazon.Lambda.CloudWatchEvents": "4.0.0"
+        },
+        "runtime": {
+          "EventBridge.dll": {}
+        }
+      },
+      "Amazon.Lambda.CloudWatchEvents/4.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.CloudWatchEvents.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.11.11": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.11"
+          }
+        }
+      },
+      "AWSSDK.EventBridge/3.7.5.22": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.11"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.EventBridge.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.5.22"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EventBridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.CloudWatchEvents/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3W7aq+8bipuVcvzvj/LxRWl2ZgLWreJhfzdSCLk5KX4tcNW7cbW+RoL2+RO+Ai3RXKyujR7Lu8DQaViqn6pTiw==",
+      "path": "amazon.lambda.cloudwatchevents/4.0.0",
+      "hashPath": "amazon.lambda.cloudwatchevents.4.0.0.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.11.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6yJ0ZIe92/LtDGn1npRSJw+J5N7grlPFucAcv9D6z6Cj9QSFRbh68WlL5vxTezWKA2IqgNhev9fpbIiHz9QzHA==",
+      "path": "awssdk.core/3.7.11.11",
+      "hashPath": "awssdk.core.3.7.11.11.nupkg.sha512"
+    },
+    "AWSSDK.EventBridge/3.7.5.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kqr2k/r4Ib5ntEArhuCtYROT1JPchDB3hymXJegxVZtthMiwpa9EvRYppViZCL0V54tbLmi9wQPIgz4voNLFSA==",
+      "path": "awssdk.eventbridge/3.7.5.22",
+      "hashPath": "awssdk.eventbridge.3.7.5.22.nupkg.sha512"
+    }
+  }
+}

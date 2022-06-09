@@ -3,6 +3,7 @@ Upload File:
 "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe"
 
 "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate1_english.jpg"
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate2_spanish.jpg"
 "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate3_russian.jpg"
 "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate4_french.jpg"
 "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate5_english.jpg"
@@ -22,4 +23,20 @@ sc.exe start DMVService
 sc.exe stop DMVService
 sc.exe delete DMVService
 
-temp: "C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate1_english.jpg" --location="1089 road1" --date="01/01/01" --type="no_stop"
+Upload File with parameters
+ 
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate1_english.jpg" --location="1089 road1" --date="01/01/01" --type="no_stop"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate2_spanish.jpg" --location="111 North Cir." --date="04/19/22" --type="no_right_on_red"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate3_russian.jpg" --location="101 Main St." --date="12/02/20" --type="no_full_stop_on_right"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate4_french.jpg" --location="105 East Ave." --date="04/01/22" --type="no_right_on_red"
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\cal_plate5_english.jpg" --location="109 West Cir." --date="04/10/22" --type="no_stop"
+
+Not California:
+
+"C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\UploadFile\bin\Debug\net6.0\UploadFile.exe" --image-path="C:\Users\mycol\WEB PROJECTS\CS-455-Work\cs455-project3\LicencePlates\oregon_plate8.jpg" --location="105 Easter." --date="02/01/12" --type="no_stop"
+
+
