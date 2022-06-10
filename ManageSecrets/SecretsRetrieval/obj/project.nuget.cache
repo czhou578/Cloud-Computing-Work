@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iXvj9tH5ks4xYvOvkhDGXTSJzUIVJHwXVDgMWIy6cmC83H+JJPToTmItEPaYisjRTA/3zkC0cdoZADFOEhZ0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mycol\\WEB PROJECTS\\CS-455-Work\\ManageSecrets\\SecretsRetrieval\\SecretsRetrieval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.core\\3.7.11.14\\awssdk.core.3.7.11.14.nupkg.sha512",
+    "C:\\Users\\mycol\\.nuget\\packages\\awssdk.secretsmanager\\3.7.2.54\\awssdk.secretsmanager.3.7.2.54.nupkg.sha512"
+  ],
+  "logs": []
+}
